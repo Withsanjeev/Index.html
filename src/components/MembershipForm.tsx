@@ -1,3 +1,4 @@
+
 import { useState } from "react";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
@@ -68,6 +69,12 @@ const MembershipForm = () => {
           src="/lovable-uploads/8b09d9e1-7de8-4b1d-85cf-6ac72229eb95.png" 
           alt="R.E.S.T Logo" 
           className="w-24 h-24 mx-auto mb-4 object-contain"
+        />
+        
+        <img 
+          src="/lovable-uploads/ae42f470-37b5-4504-8ee4-d3f38c815c63.png" 
+          alt="Nepal Telecom Employees Society Logo" 
+          className="w-32 h-32 mx-auto mb-6 object-contain"
         />
         
         <div className="mb-6">
