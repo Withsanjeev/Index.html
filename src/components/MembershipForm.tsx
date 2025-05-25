@@ -64,11 +64,11 @@ const MembershipForm = () => {
 
   return (
     <div className="p-4 max-w-4xl mx-auto">
-      <div className="text-center mb-3">
+      <div className="text-center mb-2">
         <img 
           src="/lovable-uploads/8b09d9e1-7de8-4b1d-85cf-6ac72229eb95.png" 
           alt="R.E.S.T Logo" 
-          className="w-20 h-20 mx-auto mb-1 object-contain"
+          className="w-20 h-20 mx-auto object-contain"
         />
         
         <img 
@@ -83,8 +83,8 @@ const MembershipForm = () => {
           <p className="text-lg">Nepal Telecommunications Employees Association.</p>
         </div>
         
-        <div className="text-left mb-3">
-          <p className="mb-2">Sir/Madam,</p>
+        <div className="text-left mb-2">
+          <p className="mb-1">Sir/Madam,</p>
           <p>
             I am applying for lifetime/general membership of the Nepal Telecommunications Employees 
             Association by submitting my personal details. I agree to abide by the statute, rules, 
